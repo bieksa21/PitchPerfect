@@ -4,7 +4,7 @@
 //
 //  Created by joey frenette on 2016-07-17.
 //  Copyright © 2016 joey frenette. All rights reserved.
-//
+//  Swift 2
 
 import UIKit
 import AVFoundation
